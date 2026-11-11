@@ -1,0 +1,16 @@
+# Local progress tracker (must never be committed)
+STATUS.md
+
+# Dependencies and generated output
+node_modules/
+__pycache__/
+*.py[cod]
+scraped_data.json
+
+# Local environment and editor files
+.env
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
